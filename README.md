@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+This project is for Keeper Note book where user can keep their note and save it.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
